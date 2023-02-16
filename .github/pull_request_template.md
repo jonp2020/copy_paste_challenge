@@ -1,15 +1,21 @@
-##### Description
-###### Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies that are required for this change.
+Replace "X" below with information about your pull request.
+### Description
+Provide a summary of the what has been added, changed or fixed in this pull request.
+
+"X"
 
 
 
-##### Testing instructions
-###### Please list the steps required for other developers to test the changes that are being added as part of this PR and what they should / should not expect to see when they carry out testing of this PR.
+### Testing instructions
+Provide a list the steps required for other developers to test the changes that are being added as part of this PR and what they should / should not expect to see when they carry out testing of this PR.
+
+1. "X"
 
 
+### Link to Jira ticket
 
-##### Link to Jira ticket
+"X"
 
 
+### Any other comments / issues
 
-##### Any other comments / issues
